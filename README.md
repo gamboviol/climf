@@ -12,5 +12,5 @@ Yue Shi, Martha Larson, Alexandros Karatzoglou, Nuria Oliver, Linas Baltrunas, A
 ACM RecSys 2012
 
 To run on the supplied Epinions dataset:
-  tar xzvf epinions.tar.gz
-  python climf.py --train EP25_UPL5_train.mtx --test EP25_UPL5_test.mtx 
+    tar xzvf epinions.tar.gz
+    python climf.py --train EP25_UPL5_train.mtx --test EP25_UPL5_test.mtx 
